@@ -1,0 +1,43 @@
+body {
+	background-image:url('../img/loteria.png');
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+table { 
+		width:650px;
+		height:80px;	
+		margin-left:10%;		
+		font-family: "Garamond";
+		font-size:35px;
+		font-weight:bold;
+		text-align:center;
+	  }
+td {
+	border: 6px ridge #31B404;
+	width:50px;
+	text-align:center;
+   }
+
+.casilla{
+       background-color:#BCF5A9;
+	  }
+
+.rojo{
+       background-color:#FA5858;
+}
+ 
+#titulo1 {
+			font-family: "Verdana";
+			font-size:30px;
+			margin-left:10%;
+			margin-top:15%;
+			color:#0B610B;
+	  }
+#titulo2 {
+			font-family: "Verdana";
+			font-size:30px;
+			margin-left:10%;
+			margin-top:5%;
+			color:#FA5858;
+	  }
